@@ -46,9 +46,8 @@ meeting unforeseen expenditure pending authorisation of such expenditure by the
 Legislature of the State by law under article 205 or article 206.
 Distribution of Revenues between the Union and the States
 268. Duties levied by the Union but collected and appropriated by
-the States.â€”(1) Such stamp duties and such duties of excise on medicinal and
-toilet preparations as are mentioned in the Union List shall be levied by the
-Government of India but shall be collectedâ€”
+the States.”(1) Such stamp duties as are mentioned in the Union List shall be levied by the
+Government of India but shall be collected”
 (a) in the case where such duties are leviable within any Union
 territory, by the Government of India, and
 (b) in other cases, by the States within which such duties are
@@ -57,8 +56,8 @@ respectively leviable.
 any State shall not form part of the Consolidated Fund of India, but shall be
 assigned to that State.
 269. Taxes levied and collected by the Union but assigned to the
-States.â€” (1) Taxes on the sale or purchase of goods and taxes on the
-consignment of goods shall be levied and collected by the Government of India
+States.” (1) Taxes on the sale or purchase of goods and taxes on the
+consignment of goods except as provided in article 269A shall be levied and collected by the Government of India
 but shall be assigned and shall be deemed to have been assigned to the States
 on or after the 1st day of April, 1996 in the manner provided in clause (2).
 Explanation.”For the purposes of this clause,”
@@ -79,6 +78,16 @@ formulated by Parliament by law.
 (3) Parliament may by law formulate principles for determining when a
 sale or purchase of, or consignment of, goods takes place in the course of inter
 State trade or commerce.
+
+269A.  Levy  and  collection  of  goods  and  services  tax  in  course  of  inter-State  trade  or commerce.—
+
+(1) Goods and services tax on supplies in the course of inter-State trade or commerceshall be levied and collected by the Government of India and such tax shall be apportioned between the Union and  the  States  in  the  manner  as  may  be  provided  by  Parliament  by  law  on  the  recommendations  of  the Goods and Services Tax Council.
+Explanation.—For the purposes of this clause, supply of goods, or of services, or both in the course of import into the territory of India shall be deemed to be supply of goods, or of services, or both in the course of inter-State trade or commerce.
+(2) The amount apportioned to a State under clause (1) shall not form part of the Consolidated Fund of India.
+(3) Where an amount collected as tax levied under clause (1) has been used for payment of the tax levied by a State under article 246A, such amount shall not form partof the Consolidated Fund of India.
+(4) Where an amount collected as tax levied by a State under article 246A has been used for payment of the tax levied under clause (1), such amount shall not form part of the Consolidated Fund of the State.
+(5) Parliament may, by law, formulate the principles for determining the place of supply, and when a supply of goods, or of services, or both takes place in the course of inter-State trade or commerce.
+
 270. Taxes levied and distributed between the Union and the
 States.”(1) All taxes and duties referred to in the Union List, except the dut
 ies
