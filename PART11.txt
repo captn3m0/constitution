@@ -29,15 +29,29 @@ Constitution referred to as the “State List”').
 (4) Parliament has power to make laws with respect to any matter for
 any part of the territory of India not included in a State notwithstanding that
 such matter is a matter enumerated in the State List.
-247. Power of Parliament to provide for the establishment of certain
-additional courts.—Notwithstanding anything in this Chapter, Parliament may
+
+246A. Special provision with respect to goods  and services  tax.—
+
+(1) Notwithstanding anything contained in articles 246 and 254, Parliament,
+and, subject to clause (2), the Legislature of every State, have power to
+make laws with respect to goods and services tax imposed by the Union or by such State.
+
+(2)  Parliament  has  exclusive  power  to  make  laws  with  respect  to  goods  and 
+services tax where the supply of goods, or of services, or both takes place in the 
+course of inter-Statetrade or commerce.Explanation.—The provisions of this article, 
+shall, in respect of goods and services tax referred to in clause (5) of article 279A, 
+take effect from the date recommended by the Goods and Services Tax Council.
+
+247. Power of Parliament to provide for the establishment of certain additional courts.—
+
+Notwithstanding anything in this Chapter, Parliament may
 by law provide for the establishment of any additional courts for the better
 administration of laws made by Parliament or of any existing laws with respect
 to a matter enumerated in the Union List.
 
 248. Residuary powers of legislation.—
 
-(1) Parliament has exclusive
+(1) Subject to article 246A, Parliament has exclusive
 power to make any law with respect to any matter not enumerated in the
 Concurrent List or State List.
 (2) Such power shall include the power of making any law imposing a
@@ -49,7 +63,7 @@ tax not mentioned in either of those Lists.
 if the Council of States has declared by resolution supported by not less 
 than two-thirds of the members present and voting that it is necessary or
 expedient in the national interest that Parliament should make laws with
-respect to any matter enumerated in the State List specified in the resolution
+respect to goods and services tax provided under article 246A or any matter enumerated in the State List specified in the resolution
 ,it shall be lawful for Parliament to make laws for the whole or any part
 of the territory of India with respect to that matter while the resolution remains in force.
 (2) A resolution passed under clause (1) shall remain in force for such
@@ -67,7 +81,8 @@ done or omitted to be done before the expiration of the said period.
 250. Power of Parliament to legislate with respect to any matter in the State List if a Proclamation of Emergency is in operation.—
 (1) Notwithstanding anything in this Chapter, Parliament shall, while a
 Proclamation of Emergency is in operation, have power to make laws for the
-whole or any part of the territory of India with respect to any of the matters
+whole or any part of the territory of India with respect to 
+goods and services tax provided under article 246A or any of the matters
 enumerated in the State List.
 (2) A law made by Parliament which Parliament would not but for the
 issue of a Proclamation of Emergency have been competent to make shall, to the
