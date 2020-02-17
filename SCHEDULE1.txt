@@ -1,14 +1,8 @@
-FIRST SCHEDULE
-[Articles 1 and 4]
+FIRST SCHEDULE [Articles 1 and 4]
 I. THE STATES
-Name
+
 1. Andhra Pradesh
 
-2. Assam
-
-3. Bihar
-
-Territories
 The territories specified in sub-section (1) of section
 3 of the Andhra State Act, 1953, sub-section (1) of
 section 3 of the States Reorganisation Act, 1956,
@@ -19,6 +13,9 @@ the Schedule to the Andhra Pradesh and Mysore
 territories specified in the Second Schedule to the
 Andhra Pradesh and Madras (Alteration of
 Boundaries) Act, 1959.
+
+2. Assam
+
 The territories which immediately before the
 commencement of this Constitution were
 comprised in the Province of Assam, the Khasi
@@ -29,6 +26,9 @@ the territories specified in sub-section (1) of section
 3 of the State of Nagaland Act, 1962 and the
 territories specified in sections 5, 6 and 7 of the
 North-Eastern Areas (Reorganisation) Act, 1971.
+
+3. Bihar
+
 The territories which immediately before the
 commencement of this Constitution were either
 comprised in the Province of Bihar or were being
@@ -44,33 +44,28 @@ e first mentioned Act
 and the territories specified in section 3 of the
 Bihar Reorganisation Act, 2000.
 
-218
-
-THE CONSTITUTION OF INDIA
-
-219
-Name
 4. Gujarat
-5. Kerala
-6. Madhya Pradesh
 
-7.Tamil Nadu
-
-8. Maharashtra
-
-9. Karnataka
-
-Territories
 The territories referred to in sub-section (1) of
 section 3 of the Bombay Reorganisation Act, 1960.
+
+5. Kerala
+
 The territories specified in sub-section (1) of
 section 5 of the States Reorganisation Act, 1956.
+
+
+6. Madhya Pradesh
+
 The territories specified in sub-section (1) of
 section 9 of the States Reorganisation Act, 1956
 and the First Schedule to the Rajasthan and Madhya
 Pradesh (Transfer of Territories) Act, 1959, but
 excluding the territories specified in section 3 of the
 Madhya Pradesh Reorganisation Act, 2000.
+
+7. Tamil Nadu
+
 The territories which immediately before the
 commencement of this Constitution were either
 comprised in the Province of Madras or were
@@ -88,34 +83,33 @@ section 7 of the States Reorganisation Act, 1956
 and the territories specified in the First Schedule
 to the Andhra Pradesh and Madras (Alteration of
 Boundaries) Act, 1959.
+
+8. Maharashtra
+
 The territories specified in sub-section (1) of
 section 8 of the States Reorganisation Act, 1956,
 but excluding the territories referred to in subsection (1) of section 3 of the 
-Bombay
-Reorganisation Act, 1960.
+Bombay Reorganisation Act, 1960.
+
+
+9. Karnataka
+
 The territories specified in sub-section (1) of
 section 7 of the States Reorganisation Act, 1956
 but excluding the territory specified in the
 Schedule to the Andhra Pradesh and Mysore
 (Transfer of Territory) Act, 1968.
 
-THE CONSTITUTION OF INDIA
 
-220
-Name
 10. Odisha
 
-11. Punjab
-
-12. Rajasthan
-
-13. Uttar Pradesh
-
-Territories
 The territories which immediately before the
 commencement of this Constitution were either
 comprised in the Province of Odisha or were being
 administered as if they formed part of that Province.
+
+11. Punjab
+
 The territories specified in section 11 of the
 States Reorganisation Act, 1956 and the
 territories referred to in Part II of the First
@@ -126,11 +120,17 @@ Constitution (Ninth Amendment) Act, 1960 and
 the territories specified in sub-section (1) of
 section 3, section 4 and sub-section (1) of section
 5 of the Punjab Reorganisation Act, 1966.
+
+12. Rajasthan
+
 The territories specified in section 10 of the
 States Reorganisation Act, 1956 but excluding
 the territories specified in the First Schedule to
 the Rajasthan and Madhya Pradesh (Transfer of
 Territories) Act, 1959.
+
+13. Uttar Pradesh
+
 The territories which immediately before the
 commencement of this Constitution were either
 comprised in the Province known as the United
@@ -147,31 +147,11 @@ sub-section (1) of section 3 of the Bihar and
 Uttar Pradesh (Alteration of Boundaries) Act,
 1968, and the territories specified in section 3 of
 the Uttar Pradesh Reorganisation Act, 2000 and
-the territories specified in clause (a) of subsection (1) of section 4 of the Ha
-ryana and Uttar
-Pradesh (Alteration of Boundaries) Act, 1979.
+the territories specified in clause (a) of subsection (1)
+of section 4 of the Haryana and Uttar Pradesh (Alteration of Boundaries) Act, 1979.
 
-THE CONSTITUTION OF INDIA
-
-221
-Name
 14. West Bengal
 
-15. Jammu and
-Kashmir
-16. Nagaland
-17. Haryana
-
-18. Himachal
-Pradesh
-
-19. Manipur
-
-20.Tripura
-
-21. Meghalaya
-
-Territories
 The territories which immediately before the
 commencement of this Constitution were either
 comprised in the Province of West Bengal or
@@ -182,18 +162,29 @@ Chandernagore (Merger) Act, 1954 and also the
 territories specified in sub-section (1) of section
 3 of the Bihar and West Bengal (Transfer of
 Territories) Act, 1956.
+
+15. Jammu and Kashmir
+
 The territory which immediately before the
 commencement of this Constitution was comprised
 in the Indian State of Jammu and Kashmir.
+
+16. Nagaland
+
 The territories specified in sub-section (1) of
 section 3 of the State of Nagaland Act, 1962.
+
+17. Haryana
+
 The territories specified in sub-section (1) of
 section 3 of the Punjab Reorganisation Act, 1966
 and the territories specified in clause (a) of subsection (1) of section 4 of th
-e Haryana and Uttar
-Pradesh (Alteration of Boundaries) Act, 1979,
+e Haryana and Uttar Pradesh (Alteration of Boundaries) Act, 1979,
 but excluding the territories specified in clause
 (v) of sub-section (1) of section 4 of that Act.
+
+18. Himachal Pradesh
+
 The territories which immediately before the
 commencement of this Constitution were being
 administered as if they were Chief
@@ -201,69 +192,71 @@ Commissioners’ Provinces under the names of
 Himachal Pradesh and Bilaspur and the
 territories specified in sub-section (1) of section
 5 of the Punjab Reorganisation Act, 1966.
+
+19. Manipur
+
 The territory which immediately before the
 commencement of this Constitution was being
 administered as if it were a Chief Commissioner’s
 Province under the name of Manipur.
+
+20. Tripura
+
 The territory which immediately before the
 commencement of this Constitution was being
 administered as if it were a Chief Commissioner’s
 Province under the name of Tripura.
+
+21. Meghalaya
+
 The territories specified in section 5 of the
 North-Eastern Areas (Reorganisation) Act, 1971.
 
-THE CONSTITUTION OF INDIA
-
-222
-
-Territories
-
-Name
 22. Sikkim
 
 The territories which immediately before the
 commencement of the Constitution (Thirty-sixth
 Amendment) Act, 1975, were comprised in Sikkim.
+
+23. Mizoram
+
 The territories specified in section 6 of the
 North-Eastern Areas (Reorganisation) Act, 1971.
+
+24. Arunachal Pradesh
+
 The territories specified in section 7 of the
 North-Eastern Areas (Reorganisation) Act, 1971.
+
+25. Goa
+
 The territories specified in section 3 of the Goa,
 Daman and Diu Reorganisation Act, 1987.
+
+26. Chhattisgarh
+
 The territories specified in section 3 of the
 Madhya Pradesh Reorganisation Act, 2000.
+
+27. Uttarakhand
+
 The territories specified in section 3 of the Uttar
 Pradesh Reorganisation Act, 2000.
+
+28. Jharkhand
+
 The territories specified in section 3 of the Bihar
 Reorganisation Act, 2000.
 
-23. Mizoram
-24. Arunachal
-Pradesh
-25. Goa
-26. Chhattisgarh
-27.Uttarakhand
-28. Jharkhand
+II. THE UNION TERRITORIES
 
-Name
 1. Delhi
 
-*
-
-*
-
-II. THE UNION TERRITORIES
-Extent
 The territory which immediately before the
 commencement of this Constitution was comprised
 in the Chief Commissioner’s Province of Delhi.
-*
-*
-*
 
-2. The Andaman
-and Nicobar
-Islands
+2. The Andaman and Nicobar Islands
 
 The territory which immediately before the
 commencement of this Constitution was comprised
@@ -275,8 +268,7 @@ Andaman and Nicobar Islands.
 The territory specified in section 6 of the States
 Reorganisation Act, 1956.
 
-4. Dadra and
-Nagar Haveli
+4. Dadra and Nagar Haveli
 
 The territory which immediately before the
 eleventh day of August, 1961 was comprised in
@@ -286,5 +278,3 @@ Free Dadra and Nagar Haveli.
 
 The territories specified in section 4 of the Goa,
 Daman and Diu Reorganisation Act, 1987.
-
-
